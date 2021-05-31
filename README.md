@@ -1,14 +1,3 @@
-[![yuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuto02D2-E2&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-![yuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuto02D2-E2&count_private=true&show_icons=true)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuto02D2-E2)
-
-<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuto02D2-E2&count_private=true&show_icons=true" />
@@ -16,7 +5,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuto02D2-E2" />
 </a>
-
 
 
 
