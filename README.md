@@ -1,4 +1,15 @@
-### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuto02D2-E2&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuto02D2-E2" />
+</a>
+
+
+
+<!-- The default template below -->
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **Yuto02D2-E2/Yuto02D2-E2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
