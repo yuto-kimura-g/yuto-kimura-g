@@ -1,13 +1,17 @@
 
 ## Hi there
 
-home page --> <https://yuto02d2-e2.github.io/>
+### home page
+> <https://yuto02d2-e2.github.io/> <br>
+> repo: <https://github.com/yuto02d2-e2/yuto02d2-e2.github.io/>
 
-blog site --> <https://yuto02d2-e2.github.io/blog/>
+### blog site
+> <https://yuto02d2-e2.github.io/blog/> <br>
+> repo: <https://github.com/yuto02d2-e2/blog/>
 
 <br>
 
-### status : 
+## status : 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuto02D2-E2&layout=compact)
 
 <!-- The default template below -->
