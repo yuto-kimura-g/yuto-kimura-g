@@ -1,13 +1,9 @@
 
 ## Hi there
 
-### home page
-> <https://yuto02d2-e2.github.io/> <br>
-> repo: <https://github.com/yuto02d2-e2/yuto02d2-e2.github.io/>
+> home page: <https://yuto02d2-e2.github.io/>
 
-### blog site
-> <https://yuto02d2-e2.github.io/blog/> <br>
-> repo: <https://github.com/yuto02d2-e2/blog/>
+> blog site: <https://yuto02d2-e2.github.io/blog/>
 
 <br>
 
