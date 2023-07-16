@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 ## status : 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuto02D2-E2&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuto-kimura-g&layout=compact)
 
 <!-- The default template below -->
 
