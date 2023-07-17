@@ -8,7 +8,7 @@
   <img alt="top-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuto-kimura-g&layout=donut" />
 </div>
 
-<br><br><br>
+<br>
 
 > https://github.com/anuraghazra/github-readme-stats
 
