@@ -5,9 +5,9 @@
 <details>
   <summary><strong>Status</strong></summary>
   <div align=center>
-    <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=yuto-kimura-g&column=5&margin-w=15&margin-h=5" />
     <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=yuto-kimura-g&show_icons=true&number_format=long" />
-    <img alt="top-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuto-kimura-g&layout=donut" />
+    <img alt="top-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuto-kimura-g&layout=compact&langs_count=10&card_width=400" />
+    <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=yuto-kimura-g&column=5&margin-w=15&margin-h=5" />
   </div>
 </details>
 
