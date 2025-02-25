@@ -1,6 +1,7 @@
 # Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=yuto-kimura-g" align=right />
+[![wakatime](https://wakatime.com/badge/user/0886b42a-4c7d-42e0-92b3-23c9cedc9ce1.svg)](https://wakatime.com/@0886b42a-4c7d-42e0-92b3-23c9cedc9ce1)
+<img src="https://komarev.com/ghpvc/?username=yuto-kimura-g" />
 
 :heart:
 
@@ -17,6 +18,7 @@
 </details>
 
 :link: Credit :link:
+- https://wakatime.com
 - https://komarev.com/ghpvc
 - https://skillicons.dev
 - https://github.com/anuraghazra/github-readme-stats
